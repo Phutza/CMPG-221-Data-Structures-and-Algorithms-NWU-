@@ -5,7 +5,6 @@ This repository contains assignments, projects, and practicals for CMPG 221 at N
 - Module Code: CMPG 221  
 - Title: Data Structures and Algorithms  
 - Institution:North-West University  
-- Academic Year: 2024
 - Language: Java 
 - IDE:BlueJ
 
